@@ -1,5 +1,5 @@
 # Telegraph Java Library
-[![Telegram](http://trellobot.doomdns.org/telegrambadge.svg)](https://telegram.me/JavaTelegraph)
+[![Telegram](http://trellobot.doomdns.org/telegrambadge.svg)](https://telegram.me/JavaBotsApi)
 
 
 [![Build Status](https://travis-ci.org/rubenlagus/Telegraph.svg?branch=master)](https://travis-ci.org/rubenlagus/Telegraph)
