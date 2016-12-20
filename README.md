@@ -32,7 +32,7 @@ Just import the library to your project with one of these options:
   3. Download the jar(including all dependencies) from [here](https://github.com/rubenlagus/Telegraph/releases/tag/v1.0)
 
 
-For detailed explanation, visite our [How To](https://github.com/rubenlagus/Telegraph/wiki/Getting-Started)
+For detailed explanation, visite our [How To](https://github.com/rubenlagus/Telegraph/blob/master/telegraph-sample/src/main/java/org/telegram/telegraph/sample/Main.java)
 
 ## Telegraph API
 This library use [Telegraph API](https://telegraph.ph), you can find more information following the link.
