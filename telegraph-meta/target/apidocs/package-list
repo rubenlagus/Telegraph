@@ -1,7 +1,0 @@
-org.telegram.telegraph
-org.telegram.telegraph.api
-org.telegram.telegraph.api.methods
-org.telegram.telegraph.api.objects
-org.telegram.telegraph.exceptions
-org.telegram.telegraph.executors
-org.telegram.telegraph.jsonutilities
