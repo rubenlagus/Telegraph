@@ -3,7 +3,7 @@
 
 
 [![Build Status](https://travis-ci.org/rubenlagus/Telegraph.svg?branch=master)](https://travis-ci.org/rubenlagus/Telegraph)
-[![Jitpack](https://jitpack.io/v/rubenlagus/TelegramBots.svg)](https://jitpack.io/#rubenlagus/Telegraph)
+[![Jitpack](https://jitpack.io/v/rubenlagus/Telegraph.svg)](https://jitpack.io/#rubenlagus/Telegraph)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.telegram/telegraph/badge.svg)](http://mvnrepository.com/artifact/org.telegram/telegraph)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/rubenlagus/Telegraph/blob/master/LICENSE)
 
