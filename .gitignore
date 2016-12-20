@@ -112,5 +112,5 @@ fabric.properties
 hs_err_pid*
 
 telegraph/target/
-talegraph-meta/target/
+telegraph-meta/target/
 telegraph-sample/target/
