@@ -35,7 +35,7 @@ Just import the library to your project with one of these options:
 For detailed explanation, visite our [How To](https://github.com/rubenlagus/Telegraph/blob/master/telegraph-sample/src/main/java/org/telegram/telegraph/sample/Main.java)
 
 ## Telegraph API
-This library use [Telegraph API](https://telegraph.ph), you can find more information following the link.
+This library use [Telegraph API](http://telegra.ph/api), you can find more information following the link.
 
 ## Questions or Suggestions
 Feel free to create issues [here](https://github.com/rubenlagus/Telegraph/issues) as you need or join the [chat](https://telegram.me/JavaTelegraph)
